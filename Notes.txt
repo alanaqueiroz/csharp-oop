@@ -1,0 +1,40 @@
+Section 1 - Apresentação do curso e orientações: 1 - Visão geral do curso
+
+OO Básico: 
+Classes, atributos, métodos, membros estáticos
+Construtores, palavra this, sobrecarga, encapsulamento
+- PARTE 1
+comportamento de memória, arrays, listas
+
+OO Intermediário:  
+Enumerações, composição
+Herança e polimorfismo
+Tratamento de Exceções
+
+OO Intermediário/Avançado: 
+Trabalhando com arquivos
+Interfaces
+Generics, Set, Dictionary
+- PARTE 2
+Expressões lambda, delegates, LINQ
+
+Comercial - Libs/Frameworks:
+Padrão Camadas, PadrãoMVC, Banco de Dados, ORM, GUI, CRUD, etc.
+ASP.NET Core, Entity Framework Core
+
+Projetos e Bônus
+Nivelamente sobre Git e Github
+Projeto sistema jogo de Xadrez
+Projeto  aplicação web com asp.net core mvc e enity framework
+
+Section 1 - Apresentação do curso e orientações: 2 - O que estudar para me tornar um desenvolvedor?
+
+Lógica de Programação
+Estrutura de Dados
+Programação Orientada a Objetos
+Banco de Dados
+Análise & Design de Sistemas
+Back End, Web, Mobile, Desktop, Games
+
+Section 1 - Apresentação do curso e orientações: 3 - Será que preciso fazer um curso de Lógica?
+
