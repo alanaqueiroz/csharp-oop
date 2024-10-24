@@ -1,40 +1,75 @@
-Section 1 - Apresentação do curso e orientações: 1 - Visão geral do curso
+Section 1 - Apresentação do curso e orientações:
+1 - Visão geral do curso
 
-OO Básico: 
-Classes, atributos, métodos, membros estáticos
-Construtores, palavra this, sobrecarga, encapsulamento
-- PARTE 1
-comportamento de memória, arrays, listas
+OO Básico:
+- Classes, atributos, métodos, membros estáticos
+- Construtores, palavra this, sobrecarga, encapsulamento
+- PARTE 1: Comportamento de memória, arrays, listas
 
-OO Intermediário:  
-Enumerações, composição
-Herança e polimorfismo
-Tratamento de Exceções
+OO Intermediário:
+- Enumerações, composição
+- Herança e polimorfismo
+- Tratamento de Exceções
 
-OO Intermediário/Avançado: 
-Trabalhando com arquivos
-Interfaces
-Generics, Set, Dictionary
-- PARTE 2
-Expressões lambda, delegates, LINQ
+OO Intermediário/Avançado:
+- Trabalhando com arquivos
+- Interfaces
+- Generics, Set, Dictionary
+- PARTE 2: Expressões lambda, delegates, LINQ
 
 Comercial - Libs/Frameworks:
-Padrão Camadas, PadrãoMVC, Banco de Dados, ORM, GUI, CRUD, etc.
-ASP.NET Core, Entity Framework Core
+- Padrão Camadas, Padrão MVC, Banco de Dados, ORM, GUI, CRUD, etc.
+- ASP.NET Core, Entity Framework Core
 
-Projetos e Bônus
-Nivelamente sobre Git e Github
-Projeto sistema jogo de Xadrez
-Projeto  aplicação web com asp.net core mvc e enity framework
+Projetos e Bônus:
+- Nivelamento sobre Git e Github
+- Projeto sistema jogo de Xadrez
+- Projeto aplicação web com ASP.NET Core MVC e Entity Framework
 
-Section 1 - Apresentação do curso e orientações: 2 - O que estudar para me tornar um desenvolvedor?
+---
 
-Lógica de Programação
-Estrutura de Dados
-Programação Orientada a Objetos
-Banco de Dados
-Análise & Design de Sistemas
-Back End, Web, Mobile, Desktop, Games
+2 - O que estudar para me tornar um desenvolvedor?
 
-Section 1 - Apresentação do curso e orientações: 3 - Será que preciso fazer um curso de Lógica?
+- Lógica de Programação
+- Estrutura de Dados
+- Programação Orientada a Objetos
+- Banco de Dados
+- Análise & Design de Sistemas
+- Back End, Web, Mobile, Desktop, Games
 
+---
+
+3 - Será que preciso fazer um curso de Lógica?
+
+- Compilação e interpretação
+
+Linguagens compiladas:
+- C, C++ (precisa de um compilador para ser executado)
+
+Linguagens interpretadas:
+- PHP, JavaScript (precisa de um interpretador)
+
+Pré-compiladas + máquina virtual:
+- Java, C# (roda em diferentes plataformas)
+
+- Namespace: agrupamento lógico
+- Assembly: agrupamento físico de classes
+- Aplicação/Solução: agrupamento de assemblies
+
+.NET:
+- "using System": namespace de referência
+- static void main(string[] args){}: entry point
+- Identação automática: Ctrl + K + D
+
+---
+
+Section 3 - Recapitulação de Lógica de Programação usando C#:
+
+- Estrutura sequencial (entrada, processamento, saída)
+- Operadores (aritméticos, comparativos, lógicos)
+- Estrutura de controle (if-else, while, for)
+
+Convensões:
+- Camel Case: lastName (parâmetros de métodos, variáveis dentro de métodos)
+- Pascal Case: LastName (namespaces, classes, properties e métodos)
+- Padrão: _lastName (atributos "internos" da classe)

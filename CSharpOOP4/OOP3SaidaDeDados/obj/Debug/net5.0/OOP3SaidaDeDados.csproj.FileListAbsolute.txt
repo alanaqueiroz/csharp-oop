@@ -1,0 +1,16 @@
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\bin\Debug\net5.0\OOP3SaidaDeDados.exe
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\bin\Debug\net5.0\OOP3SaidaDeDados.deps.json
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\bin\Debug\net5.0\OOP3SaidaDeDados.runtimeconfig.json
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\bin\Debug\net5.0\OOP3SaidaDeDados.runtimeconfig.dev.json
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\bin\Debug\net5.0\OOP3SaidaDeDados.dll
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\bin\Debug\net5.0\ref\OOP3SaidaDeDados.dll
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\bin\Debug\net5.0\OOP3SaidaDeDados.pdb
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\obj\Debug\net5.0\OOP3SaidaDeDados.csproj.AssemblyReference.cache
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\obj\Debug\net5.0\OOP3SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\obj\Debug\net5.0\OOP3SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\obj\Debug\net5.0\OOP3SaidaDeDados.AssemblyInfo.cs
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\obj\Debug\net5.0\OOP3SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\obj\Debug\net5.0\OOP3SaidaDeDados.dll
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\obj\Debug\net5.0\ref\OOP3SaidaDeDados.dll
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\obj\Debug\net5.0\OOP3SaidaDeDados.pdb
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\OOP3SaidaDeDados\OOP3SaidaDeDados\obj\Debug\net5.0\OOP3SaidaDeDados.genruntimeconfig.cache
