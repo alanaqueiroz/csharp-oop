@@ -1,0 +1,16 @@
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\bin\Debug\net5.0\CSharpOOP5.exe
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\bin\Debug\net5.0\CSharpOOP5.deps.json
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\bin\Debug\net5.0\CSharpOOP5.runtimeconfig.json
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\bin\Debug\net5.0\CSharpOOP5.runtimeconfig.dev.json
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\bin\Debug\net5.0\CSharpOOP5.dll
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\bin\Debug\net5.0\ref\CSharpOOP5.dll
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\bin\Debug\net5.0\CSharpOOP5.pdb
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\obj\Debug\net5.0\CSharpOOP5.csproj.AssemblyReference.cache
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\obj\Debug\net5.0\CSharpOOP5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\obj\Debug\net5.0\CSharpOOP5.AssemblyInfoInputs.cache
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\obj\Debug\net5.0\CSharpOOP5.AssemblyInfo.cs
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\obj\Debug\net5.0\CSharpOOP5.csproj.CoreCompileInputs.cache
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\obj\Debug\net5.0\CSharpOOP5.dll
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\obj\Debug\net5.0\ref\CSharpOOP5.dll
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\obj\Debug\net5.0\CSharpOOP5.pdb
+C:\Users\Aucom\Desktop\Alana\csharp-oop\CSharpOOP5\CSharpOOP5\obj\Debug\net5.0\CSharpOOP5.genruntimeconfig.cache

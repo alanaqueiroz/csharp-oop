@@ -39,8 +39,6 @@ Projetos e Bônus:
 
 ---
 
-3 - Será que preciso fazer um curso de Lógica?
-
 - Compilação e interpretação
 
 Linguagens compiladas:
