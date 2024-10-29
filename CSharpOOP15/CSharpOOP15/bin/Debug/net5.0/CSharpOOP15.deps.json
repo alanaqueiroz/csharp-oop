@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CSharpOOP15/1.0.0": {
+        "runtime": {
+          "CSharpOOP15.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpOOP15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

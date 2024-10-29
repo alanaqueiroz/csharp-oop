@@ -1,0 +1,16 @@
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\bin\Debug\net5.0\CSharpOOP9.exe
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\bin\Debug\net5.0\CSharpOOP9.deps.json
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\bin\Debug\net5.0\CSharpOOP9.runtimeconfig.json
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\bin\Debug\net5.0\CSharpOOP9.runtimeconfig.dev.json
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\bin\Debug\net5.0\CSharpOOP9.dll
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\bin\Debug\net5.0\ref\CSharpOOP9.dll
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\bin\Debug\net5.0\CSharpOOP9.pdb
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\obj\Debug\net5.0\CSharpOOP9.csproj.AssemblyReference.cache
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\obj\Debug\net5.0\CSharpOOP9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\obj\Debug\net5.0\CSharpOOP9.AssemblyInfoInputs.cache
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\obj\Debug\net5.0\CSharpOOP9.AssemblyInfo.cs
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\obj\Debug\net5.0\CSharpOOP9.csproj.CoreCompileInputs.cache
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\obj\Debug\net5.0\CSharpOOP9.dll
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\obj\Debug\net5.0\ref\CSharpOOP9.dll
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\obj\Debug\net5.0\CSharpOOP9.pdb
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP9\CSharpOOP9\obj\Debug\net5.0\CSharpOOP9.genruntimeconfig.cache

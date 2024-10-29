@@ -1,0 +1,16 @@
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\obj\Debug\net5.0\CSharpOOP7.csproj.AssemblyReference.cache
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\obj\Debug\net5.0\CSharpOOP7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\obj\Debug\net5.0\CSharpOOP7.AssemblyInfoInputs.cache
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\obj\Debug\net5.0\CSharpOOP7.AssemblyInfo.cs
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\obj\Debug\net5.0\CSharpOOP7.csproj.CoreCompileInputs.cache
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\bin\Debug\net5.0\CSharpOOP7.exe
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\bin\Debug\net5.0\CSharpOOP7.deps.json
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\bin\Debug\net5.0\CSharpOOP7.runtimeconfig.json
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\bin\Debug\net5.0\CSharpOOP7.runtimeconfig.dev.json
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\bin\Debug\net5.0\CSharpOOP7.dll
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\bin\Debug\net5.0\ref\CSharpOOP7.dll
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\bin\Debug\net5.0\CSharpOOP7.pdb
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\obj\Debug\net5.0\CSharpOOP7.dll
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\obj\Debug\net5.0\ref\CSharpOOP7.dll
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\obj\Debug\net5.0\CSharpOOP7.pdb
+C:\Users\Aucom\Desktop\MyProjects\csharp-oop\CSharpOOP7\CSharpOOP7\obj\Debug\net5.0\CSharpOOP7.genruntimeconfig.cache
