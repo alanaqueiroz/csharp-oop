@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace CSharpOOP5 //Exercício 1
+namespace CSharpOOP5 //Estrutura Sequencial - Exercício 1
 {
     class Program
     {
