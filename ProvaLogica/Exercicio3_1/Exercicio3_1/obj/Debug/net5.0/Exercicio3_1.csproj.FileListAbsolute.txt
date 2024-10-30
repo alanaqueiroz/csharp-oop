@@ -1,0 +1,15 @@
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\obj\Debug\net5.0\Exercicio3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\obj\Debug\net5.0\Exercicio3_1.AssemblyInfoInputs.cache
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\obj\Debug\net5.0\Exercicio3_1.AssemblyInfo.cs
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\obj\Debug\net5.0\Exercicio3_1.csproj.CoreCompileInputs.cache
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\bin\Debug\net5.0\Exercicio3_1.exe
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\bin\Debug\net5.0\Exercicio3_1.deps.json
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\bin\Debug\net5.0\Exercicio3_1.runtimeconfig.json
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\bin\Debug\net5.0\Exercicio3_1.runtimeconfig.dev.json
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\bin\Debug\net5.0\Exercicio3_1.dll
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\bin\Debug\net5.0\ref\Exercicio3_1.dll
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\bin\Debug\net5.0\Exercicio3_1.pdb
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\obj\Debug\net5.0\Exercicio3_1.dll
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\obj\Debug\net5.0\ref\Exercicio3_1.dll
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\obj\Debug\net5.0\Exercicio3_1.pdb
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\Exercicio3_1\Exercicio3_1\obj\Debug\net5.0\Exercicio3_1.genruntimeconfig.cache

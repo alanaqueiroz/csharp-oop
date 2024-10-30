@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aucom\\Desktop\\MyProjects\\csharp-oop\\Section3\\CSharpOOP1\\CSharpOOP1\\CSharpOOP1.csproj",
+      "projectUniqueName": "C:\\Users\\Aucom\\Desktop\\Alana\\csharp-oop\\CSharpOOP1\\CSharpOOP1\\CSharpOOP1.csproj",
       "projectName": "CSharpOOP1",
-      "projectPath": "C:\\Users\\Aucom\\Desktop\\MyProjects\\csharp-oop\\Section3\\CSharpOOP1\\CSharpOOP1\\CSharpOOP1.csproj",
+      "projectPath": "C:\\Users\\Aucom\\Desktop\\Alana\\csharp-oop\\CSharpOOP1\\CSharpOOP1\\CSharpOOP1.csproj",
       "packagesPath": "C:\\Users\\Aucom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aucom\\Desktop\\MyProjects\\csharp-oop\\Section3\\CSharpOOP1\\CSharpOOP1\\obj\\",
+      "outputPath": "C:\\Users\\Aucom\\Desktop\\Alana\\csharp-oop\\CSharpOOP1\\CSharpOOP1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aucom\\Desktop\\MyProjects\\csharp-oop\\Section3\\CSharpOOP2\\CSharpOOP2\\CSharpOOP2.csproj": {}
+    "C:\\Users\\Aucom\\Desktop\\Alana\\csharp-oop\\CSharpOOP2\\CSharpOOP2\\CSharpOOP2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aucom\\Desktop\\MyProjects\\csharp-oop\\Section3\\CSharpOOP2\\CSharpOOP2\\CSharpOOP2.csproj": {
+    "C:\\Users\\Aucom\\Desktop\\Alana\\csharp-oop\\CSharpOOP2\\CSharpOOP2\\CSharpOOP2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aucom\\Desktop\\MyProjects\\csharp-oop\\Section3\\CSharpOOP2\\CSharpOOP2\\CSharpOOP2.csproj",
+        "projectUniqueName": "C:\\Users\\Aucom\\Desktop\\Alana\\csharp-oop\\CSharpOOP2\\CSharpOOP2\\CSharpOOP2.csproj",
         "projectName": "CSharpOOP2",
-        "projectPath": "C:\\Users\\Aucom\\Desktop\\MyProjects\\csharp-oop\\Section3\\CSharpOOP2\\CSharpOOP2\\CSharpOOP2.csproj",
+        "projectPath": "C:\\Users\\Aucom\\Desktop\\Alana\\csharp-oop\\CSharpOOP2\\CSharpOOP2\\CSharpOOP2.csproj",
         "packagesPath": "C:\\Users\\Aucom\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aucom\\Desktop\\MyProjects\\csharp-oop\\Section3\\CSharpOOP2\\CSharpOOP2\\obj\\",
+        "outputPath": "C:\\Users\\Aucom\\Desktop\\Alana\\csharp-oop\\CSharpOOP2\\CSharpOOP2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

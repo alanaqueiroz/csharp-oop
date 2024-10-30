@@ -1,0 +1,16 @@
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\bin\Debug\net5.0\CSharpOOP23.exe
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\bin\Debug\net5.0\CSharpOOP23.deps.json
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\bin\Debug\net5.0\CSharpOOP23.runtimeconfig.json
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\bin\Debug\net5.0\CSharpOOP23.runtimeconfig.dev.json
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\bin\Debug\net5.0\CSharpOOP23.dll
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\bin\Debug\net5.0\ref\CSharpOOP23.dll
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\bin\Debug\net5.0\CSharpOOP23.pdb
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\obj\Debug\net5.0\CSharpOOP23.csproj.AssemblyReference.cache
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\obj\Debug\net5.0\CSharpOOP23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\obj\Debug\net5.0\CSharpOOP23.AssemblyInfoInputs.cache
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\obj\Debug\net5.0\CSharpOOP23.AssemblyInfo.cs
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\obj\Debug\net5.0\CSharpOOP23.csproj.CoreCompileInputs.cache
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\obj\Debug\net5.0\CSharpOOP23.dll
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\obj\Debug\net5.0\ref\CSharpOOP23.dll
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\obj\Debug\net5.0\CSharpOOP23.pdb
+C:\Users\Aucom\Desktop\Alana\csharp-oop\ProvaLogica\CSharpOOP23\CSharpOOP23\obj\Debug\net5.0\CSharpOOP23.genruntimeconfig.cache

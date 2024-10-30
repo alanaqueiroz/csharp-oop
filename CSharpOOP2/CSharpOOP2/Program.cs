@@ -1,42 +1,28 @@
 ﻿using System;
 
-namespace CSharpOOP2 //Tipos de Dados
+namespace CSharpOOP3 //Saída de Dados
 {
     class Program
     {
         static void Main(string[] args)
         {
-            bool completo = false; //controle de verdadeiro ou falso
             char genero = 'F';
-            char letra = '\u0041';
-            byte n1 = 126;
-            int n2 = 1000;
-            int n3 = 2147483647;
-            long n4 = 2147483647L;
-            float n5 = 4.5f;
-            string nome = "John";
-            object obj1 = "Mary";
-            object obj2 = 4.5f;
-            int n6 = int.MinValue;
-            int n7 = int.MaxValue;
-            sbyte n8 = sbyte.MinValue;
-            decimal n9 = decimal.MaxValue;
+            int idade = 32;
+            double saldo = 10.35784;
+            string nome = "Name";
 
-            Console.WriteLine(completo);
+            Console.Write("Hello");
+            Console.WriteLine(" World!"); // inclui quebra de linha
+            Console.WriteLine("---------------");
             Console.WriteLine(genero);
-            Console.WriteLine(letra);
-            Console.WriteLine(n1);
-            Console.WriteLine(n2);
-            Console.WriteLine(n3);
-            Console.WriteLine(n4);
-            Console.WriteLine(n5);
+            Console.WriteLine(idade);
+            Console.WriteLine(saldo);
             Console.WriteLine(nome);
-            Console.WriteLine(obj1);
-            Console.WriteLine(obj2);
-            Console.WriteLine(n6);
-            Console.WriteLine(n7);
-            Console.WriteLine(n8);
-            Console.WriteLine(n9);
+            Console.WriteLine(saldo.ToString("F2")); // Formata com 2 casas decimais
+            Console.WriteLine(saldo.ToString("F4")); // Formata com 4 casas decimais
+            Console.WriteLine("{0} tem {1} anos e tem saldo igual a {2:F2} reais", nome, idade, saldo); // Corrigido
+            Console.WriteLine($"{nome} tem {idade} anos e tem saldo igual a {saldo:F2} reais");
+            Console.WriteLine(nome);
         }
     }
 }
