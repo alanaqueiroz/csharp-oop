@@ -1,0 +1,15 @@
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\obj\Debug\net5.0\CSharpOOP17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\obj\Debug\net5.0\CSharpOOP17.AssemblyInfoInputs.cache
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\obj\Debug\net5.0\CSharpOOP17.AssemblyInfo.cs
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\obj\Debug\net5.0\CSharpOOP17.csproj.CoreCompileInputs.cache
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\bin\Debug\net5.0\CSharpOOP17.exe
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\bin\Debug\net5.0\CSharpOOP17.deps.json
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\bin\Debug\net5.0\CSharpOOP17.runtimeconfig.json
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\bin\Debug\net5.0\CSharpOOP17.runtimeconfig.dev.json
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\bin\Debug\net5.0\CSharpOOP17.dll
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\bin\Debug\net5.0\ref\CSharpOOP17.dll
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\bin\Debug\net5.0\CSharpOOP17.pdb
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\obj\Debug\net5.0\CSharpOOP17.dll
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\obj\Debug\net5.0\ref\CSharpOOP17.dll
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\obj\Debug\net5.0\CSharpOOP17.pdb
+C:\Users\Aucom\source\repos\CSharpOOP17\CSharpOOP17\obj\Debug\net5.0\CSharpOOP17.genruntimeconfig.cache

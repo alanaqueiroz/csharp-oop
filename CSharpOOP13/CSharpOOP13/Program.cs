@@ -7,23 +7,21 @@ namespace CSharpOOP12
     {
         static void Main(string[] args)
         {
-            int inicio, fim, duracao;
+            int A, B;
 
-            Console.WriteLine("Digite que horas o jogo comecou: ");
-            inicio = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.WriteLine("Digite que horas o jogo terminou: ");
-            fim = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Digite um valor para A: ");
+            A = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Digite um valor para B: ");
+            B = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            if (inicio < fim)
+            if (A % B == 0 || B % A == 0)
             {
-                duracao = inicio - fim;
+                Console.WriteLine("Os números são múltiplos");
             }
             else
             {
-                duracao = 24 - inicio + fim;
+                Console.WriteLine("Os números não são múltiplos");
             }
-
-            Console.WriteLine("O jogo durou: " + duracao + " horas");
         }
     }
 }

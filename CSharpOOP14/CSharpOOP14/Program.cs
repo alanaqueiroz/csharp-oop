@@ -1,33 +1,47 @@
 ﻿using System;
 using System.Globalization;
 
-namespace CSharpOOP14
+namespace CSharpOOP12
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int numero;
+            int codigo, quantidade;
+            double total = 0.0;
 
-            Console.WriteLine("Digite um numero para calcular seu intervalo: ");
-            numero = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Digite o código do item: ");
+            codigo = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Digite a quantidade desse item: ");
+            quantidade = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            if (numero >= 25 && numero <= 50)
+            if (codigo == 1)
             {
-                Console.WriteLine("Intervalo (25, 50]");
+                total = quantidade * 4.00;
             }
-            else if (numero >= 0 && numero < 25)
+            else if (codigo == 2)
             {
-                Console.WriteLine("Intervalo [0, 25]");
+                total = quantidade * 4.50;
             }
-            else if (numero >= 75 && numero <= 100)
+            else if (codigo == 3)
             {
-                Console.WriteLine("Intervalo (75, 100]");
+                total = quantidade * 5.00;
             }
-            else if (numero < 0 && numero > 100 )
+            else if (codigo == 4)
             {
-                Console.WriteLine("Fora de intervalo.");
+                total = quantidade * 2.00;
             }
+            else if (codigo == 5)
+            {
+                total = quantidade * 1.50;
+            }
+            else
+            {
+                Console.WriteLine("Código inválido.");
+                return;
+            }
+
+            Console.WriteLine("O total a pagar é: " + total.ToString("F2", CultureInfo.InvariantCulture) + " reais");
         }
     }
 }

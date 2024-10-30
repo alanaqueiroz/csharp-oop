@@ -1,47 +1,47 @@
 ﻿using System;
 using System.Globalization;
 
-namespace CSharpOOP14
+namespace CSharpOOP12
 {
     class Program
     {
         static void Main(string[] args)
         {
-            double x, y;
+            int codigo, quantidade;
+            double total = 0.0;
 
-            Console.WriteLine("Digite as coordenadas para X: ");
-            x = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.WriteLine("Digite as coordenadas para Y: ");
-            y = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Digite o código do item: ");
+            codigo = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.WriteLine("Digite a quantidade desse item: ");
+            quantidade = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            if (x == 0.0 && y == 0.0)
+            if (codigo == 1)
             {
-                Console.WriteLine("Origem");
+                total = quantidade * 4.00;
             }
-            else if (x == 0.0)
+            else if (codigo == 2)
             {
-                Console.WriteLine("Eixo Y");
+                total = quantidade * 4.50;
             }
-            else if (y == 0.0)
+            else if (codigo == 3)
             {
-                Console.WriteLine("Eixo X");
+                total = quantidade * 5.00;
             }
-            else if (x > 0.0 && y > 0.0)
+            else if (codigo == 4)
             {
-                Console.WriteLine("Q1");
+                total = quantidade * 2.00;
             }
-            else if (x < 0.0 && y > 0.0)
+            else if (codigo == 5)
             {
-                Console.WriteLine("Q2");
-            }
-            else if (x < 0.0 && y < 0.0)
-            {
-                Console.WriteLine("Q3");
+                total = quantidade * 1.50;
             }
             else
             {
-                Console.WriteLine("Q4");
+                Console.WriteLine("Código inválido.");
+                return;
             }
+
+            Console.WriteLine("O total a pagar é: " + total.ToString("F2", CultureInfo.InvariantCulture) + " reais");
         }
     }
 }
